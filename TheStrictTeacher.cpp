@@ -1,5 +1,5 @@
 /*
-* Nombre: AndrÈs Ignacio Zegales Taborga
+* Nombre: Andr√©s Ignacio Zegales Taborga
 * Fecha: 24/10/2024
 * Tema: The Strict Teacher 2005B1 - Codeforces
 */
@@ -30,7 +30,7 @@ void bubbleSort(vector<int>& vec) {
 /*
 * encontrarSig(const vector<int>& copia, int est)
 *
-* Se usa este metodo para encontrar al profesor m·s cercano
+* Se usa este metodo para encontrar al profesor m√°s cercano
 * despues del estudiante
 *
 * param const vector<int>& copia, int est
@@ -47,7 +47,7 @@ int encontrarSig(const vector<int>& copia, int est) {
 /*
 * encontrarAnt(const vector<int>& copia, int est)
 *
-* Se usa este metodo para encontrar al profesor m·s cercano
+* Se usa este metodo para encontrar al profesor m√°s cercano
 * antes del estudiante
 *
 * param const vector<int>& copia, int est
