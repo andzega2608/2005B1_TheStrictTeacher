@@ -1,0 +1,1 @@
+# 2005B1_TheStrictTeacher
